@@ -20,4 +20,10 @@ console.log(jmeno);
 let a = 5;
 let b = 100;
 let soucet = a + b + 100;
+
 console.log(soucet);
+
+let jmeno = "Vera";
+let prijmeni = "Kucirkova"
+
+console.log(jmeno + " " + prijmeni)
