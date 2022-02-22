@@ -1,0 +1,2 @@
+let jmenomuz
+let jmenozena
