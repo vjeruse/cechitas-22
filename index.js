@@ -66,3 +66,38 @@ let rozdilMesicu = (rokZena - rokMuz) *12 + (mesicZena - mesicMuz)
 
 console.log (rozdilMesicu)
 */
+
+/*
+let jmeno = prompt("Jak se jmenujes?");
+
+console.log("Jmenujes se:" + jmeno);
+*/
+
+/* 
+let cislo = Number(prompt("Kolik je ti let?"));
+console.log("Je ti:" + cislo)
+*/
+
+//=== je rovno
+//!== neni rovno
+//&& a zaroven
+// || nebo
+
+// console.log (1 === 2 )
+
+/*
+let prsi = true;
+
+let mrzne = false;
+console.log ("Prsi a zaroven mrzne?");
+console.log(prsi || mrzne);
+*/
+
+let vek = 19;
+if(vek >= 18) {
+  console.log("Vyborne, jsi plnolety");
+
+}
+else{
+  console.log ("Nejis plnolety");
+}
