@@ -51,6 +51,7 @@ console.log ("Jmenuji se " + jmeno + " je mi" +" "+ + vek + " vazim" + " " + vah
 */
 import'./ukol1';
 import'./ukol2';
+import'./ukol3';
 
 
 /*let jmenoMuz = "Honza"
@@ -93,7 +94,7 @@ console.log ("Prsi a zaroven mrzne?");
 console.log(prsi || mrzne);
 */
 
-let vek = 19;
+/*let vek = 19;
 if(vek >= 18) {
   console.log("Vyborne, jsi plnolety");
 
@@ -101,3 +102,4 @@ if(vek >= 18) {
 else{
   console.log ("Nejis plnolety");
 }
+*/
