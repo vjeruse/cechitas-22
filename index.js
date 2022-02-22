@@ -1,2 +1,2 @@
-import './style.czz',
+import './style.css',
 console.log("Ahoj svete")
