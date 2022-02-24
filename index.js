@@ -52,6 +52,7 @@ console.log ("Jmenuji se " + jmeno + " je mi" +" "+ + vek + " vazim" + " " + vah
 import'./ukol1';
 import'./ukol2';
 import'./ukol3';
+import'./ukol4';
 
 
 /*let jmenoMuz = "Honza"
@@ -103,3 +104,9 @@ else{
   console.log ("Nejis plnolety");
 }
 */
+
+let otazka = Number(prompt("Cislo?"))
+
+while(otazka !== 0){
+  console.log(otazka)
+}
